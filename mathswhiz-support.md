@@ -29,7 +29,8 @@ Check if "All Topics" is enabled in Settings.
 ## 🐛 Report a Bug
 
 Please open an issue here:
-https://github.com/scroos/support/mathswhiz-support/issues
+https://github.com/scroos/support/issues
+select lable : MathsWhiz
 
 ---
 
